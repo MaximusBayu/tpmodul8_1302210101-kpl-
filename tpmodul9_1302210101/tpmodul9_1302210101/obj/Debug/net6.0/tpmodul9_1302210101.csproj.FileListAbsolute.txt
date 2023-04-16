@@ -30,3 +30,4 @@ C:\Users\DELL\source\repos\tpmodul9_1302210101\tpmodul9_1302210101\obj\Debug\net
 C:\Users\DELL\source\repos\tpmodul9_1302210101\tpmodul9_1302210101\obj\Debug\net6.0\tpmodul9_1302210101.pdb
 C:\Users\DELL\source\repos\tpmodul9_1302210101\tpmodul9_1302210101\obj\Debug\net6.0\tpmodul9_1302210101.genruntimeconfig.cache
 C:\Users\DELL\source\repos\tpmodul9_1302210101\tpmodul9_1302210101\obj\Debug\net6.0\ref\tpmodul9_1302210101.dll
+C:\Users\DELL\source\repos\tpmodul9_1302210101\tpmodul9_1302210101\bin\Debug\net6.0\Program.cs
